@@ -6,4 +6,4 @@ class Comment (Document):
     user = StringField(required=True)
     comment = StringField(required=True)
     is_thread = BooleanField(default=False),
-    next_comment = ObjectIdField()
+    previous_comment = ObjectIdField()
