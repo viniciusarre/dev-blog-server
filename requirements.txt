@@ -7,6 +7,6 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 mongoengine==0.20.0
 pymongo==3.11.0
-starlette==0.13.8
+starlette==0.25.0
 typing-extensions==3.7.4.3
 Werkzeug==1.0.1
