@@ -1,6 +1,6 @@
 ariadne==0.12.0
 click==7.1.2
-Flask==1.1.2
+Flask==2.3.2
 graphql-core==3.0.5
 itsdangerous==1.1.0
 Jinja2==2.11.3
